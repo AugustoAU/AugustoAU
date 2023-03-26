@@ -1,6 +1,6 @@
 - 🔭 hoje trabalho com front-end
 - 🌱 Estudando React
-- 📫 Contate-me por email: augustosoaresd232@gmail.com
+- 📫 Contate-me por email: augustosoaresd232@proton.me
 
 <div align="center">
   <a href="https://github.com/AugustoAU">

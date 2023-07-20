@@ -1,4 +1,4 @@
-- 🔭 hoje trabalho com front-end
+- 🔭 hoje trabalho com back-end
 - 🌱 Estudando React
 - 📫 Contate-me por email: augustosoaresd232@proton.me
 

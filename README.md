@@ -1,6 +1,6 @@
-- 🔭 Entrando na área de programação com foco em back-end.
-- 🌱 Estudando C#
-- 📫 Contate-me por email: augustosoaresd232@proton.me
+- 🔭 Vivendo e desaprendendo
+- 🌱 Serviu de aprendizado, mas não aprendi nada
+- 📫 Contate-me pelos Commits dos meus codigos! 
 
 <div align="center">
   <a href="https://github.com/AugustoAU">
@@ -20,7 +20,6 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/4u6u5705/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:Augustosoaresd232@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-soares-8657121b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  

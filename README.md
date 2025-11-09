@@ -1,6 +1,6 @@
-- 🔭 Vivendo e desaprendendo
+- 🔭 Desvivendo e desaprendendo
 - 🌱 Serviu de aprendizado, mas não aprendi nada
-- 📫 Contate-me pelos Commits dos meus codigos! 
+- 📫 Contate-me pelos Commits!!! 
 
 <div align="center">
   <a href="https://github.com/AugustoAU">

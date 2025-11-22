@@ -1,25 +1,18 @@
-- 🔭 Desvivendo e desaprendendo
-- 🌱 Serviu de aprendizado, mas não aprendi nada
-- 📫 Contate-me pelos Commits!!! 
+- 👀 tualmente trabalho como TI em um hospital e desenvolvo projetos pessoais Web. Meu próximo passo é criar aplicativos para Apple.
+- 🌱 Estou estudando JavaScript e MySQL.
+- 📫 Contate-me: augustosoaresd232@gmail.com
 
 <div align="center">
-  <a href="https://github.com/AugustoAU">
-  
+  <a href="https://github.com/AugustoSoare ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoSoare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSoare&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href = "mailto:Augustosoaresd232@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+##
+
+<div> 
+  <a href="https://instagram.com/4504r35" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "augustosoaresd232@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-soares-8657121b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>

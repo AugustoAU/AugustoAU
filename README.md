@@ -1,12 +1,6 @@
 - 👀 tualmente trabalho como TI em um hospital e desenvolvo projetos pessoais Web. Meu próximo passo é criar aplicativos para Apple.
-- 🌱 Estou estudando JavaScript e MySQL.
+- 🌱 Estou estudando Oracle.
 - 📫 Contate-me: augustosoaresd232@gmail.com
-
-<div align="center">
-  <a href="https://github.com/AugustoAU ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoAU&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoAU&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 ##

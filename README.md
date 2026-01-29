@@ -1,4 +1,4 @@
-- 👀 tualmente trabalho como TI em um hospital e desenvolvo projetos pessoais Web. Meu próximo passo é criar aplicativos para Apple.
+- 👀 tualmente trabalho como TI em um hospital e desenvolvo projetos pessoais Web. Meu próximo passo é aprender Oracle.
 - 🌱 Estou estudando Oracle.
 - 📫 Contate-me: augustosoaresd232@gmail.com
 
